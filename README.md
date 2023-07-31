@@ -34,7 +34,7 @@
 
 ## PREPARE
 
-> >In this phase, I will collect the Attendance data from the below link:</br>
+> In this phase, I will collect the Attendance data from the below link:</br>
 We will be using Attendance historical data [here](https://codebasics.io/resources?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description) for 3 months between April 2022-June 2022.
 
 
